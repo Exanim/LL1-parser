@@ -20,6 +20,7 @@ Call the BuildParseTable method on the parser instance.
     parser.analyze();
 
 The parse table from example3:
+
 ![parse table](https://raw.githubusercontent.com/Exanim/LL1-parser/main/Screenshot_215.png)
 
 ## Limitations
