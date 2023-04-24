@@ -1,0 +1,6 @@
+S
+a c d
+S A B
+S aABb
+A c /
+B d /
