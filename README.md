@@ -9,7 +9,7 @@ To use this parser, you can follow these steps:
 Create an instance of the LL1Parser class and pass in your grammar file as well as the word you want to analyze.
 Example:
 	
-    String grammarFile = "ExampleGrammar3.txt";
+    String grammarFile = "LL1-parser-main/Forditoprogramok/ExampleGrammar3.txt";
     String word = "acdb";
     LL1Parser parser = new LL1Parser(grammarFile, word);
     
