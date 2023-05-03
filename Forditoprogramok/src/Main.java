@@ -2,7 +2,6 @@ import java.io.FileNotFoundException;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
-        String[] grammarAndWord = new String[2];
 
         // feel free to try out other examples, or your own grammar (must be LL(1) grammar)
         String grammarFile = "LL1-parser-main/Forditoprogramok/ExampleGrammar3.txt";
